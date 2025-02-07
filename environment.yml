@@ -1,0 +1,11 @@
+name : dlip
+dependencies :
+  - python
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pytorch
+  - ipykernel
+  - jupyter
